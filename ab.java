@@ -1,13 +1,3 @@
-kdsfhasdfjh
-sadfjkfhsdjfh
-skdfjfhkjfha;h
-sdkjfhsdkjfh
-askdjfhskjsh
-sdakjshd
-dskafh
-dskfjhdskfjhsdf
-sdakjfldhfksdjfha
-sdkjfahfkjsdhf
-sdfksdhfkdshf fhdsfklsdhf
-dskfjhskldjfh
-
+hello World
+Print "Hi team this is pritam" 
+i am changing this commit file

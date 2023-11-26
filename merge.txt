@@ -1,1 +1,1 @@
-new content from master branch
+new second content from master branch

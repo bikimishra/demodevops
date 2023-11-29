@@ -1,2 +1,1 @@
-new second content from master branch
-Creating merge conflicts
+creating merge conflicts
